@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cardviewexample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="card_view_info">CardView extends the FrameLayout class and lets you show information inside cards that have a consistent look on any app. CardView widgets can have shadows and rounded corners.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
